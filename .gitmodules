@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "M2SMF"]
 	path = M2SMF
 	url = https://github.com/cran/M2SMF
-	shallow = true
-	registered = true
 [submodule "M2SMJF"]
 	path = M2SMJF
 	url = https://github.com/cran/M2SMJF
-	shallow = true
-	registered = true
 [submodule "OSNMTF"]
 	path = OSNMTF
 	url = https://github.com/cran/OSNMTF
-	shallow = true
-	registered = true
